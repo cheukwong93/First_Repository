@@ -23,8 +23,8 @@ Simply use back slash '\\'.
 \#\# equals to h2
 > # h1
 > ## h2
-Or this way \<h1\> h1
->Or this way <h1> h1
+Or this way \<h1\> h1 \<\/h1\>
+>Or this way <h1> h1 </h1>
 \* ordered list
   \* ordered list row1
   \* ordered list row2
