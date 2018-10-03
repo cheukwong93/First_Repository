@@ -25,7 +25,7 @@ Simply use back slash '\\'.
 >block (This is the block already)
 
 ## Inline code
-\`\Inline\` 
+\`\Inline\` </br> 
 `Inline`
 
 ## How to make header
