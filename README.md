@@ -52,3 +52,6 @@ Use \'1\.' instead and with three tab spaces </br>
       1. three A
       1. three B
 
+
+http://github.com - automatic!
+[GitHub](http://github.com)
