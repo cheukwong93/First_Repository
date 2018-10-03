@@ -5,11 +5,11 @@ This is a **first** project on *Github* to test how do I use it.
 ## A <h3> tag
 ### A <h3> tag
 
-*italic* \n
-_italic_ \n
-**bold** \n
-__bold__ \n
-_ha**combine**ha_ \n
+*italic*  
+_italic_  
+**bold**  
+__bold__  
+_ha**combine**ha_  
 
 * Item 1
 * Item 2
