@@ -19,7 +19,9 @@ Simply use back slash '\\'.
 \>block
 >block (This is the block already)
 ## How to make header
-\# equals to h1
+\# equals to h1 <br/>
 \#\# equals to h2
 > # h1
-> # h2
+> ## h2
+Or this way \<h1\> h1
+>Or this way <h1> h1
