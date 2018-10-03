@@ -1,6 +1,6 @@
 # Tutorial on How to edit a README.md File
 ## How to bold letter
-\**bold**
+\*\*bold\*\*
 >**bold**
 ## how to italic letter
 
