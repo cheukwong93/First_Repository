@@ -1,5 +1,5 @@
 # Tutorial on how to edit a README.md file
-This is my personal practice on how to use github markup file (my very first time).
+This is my personal practice on how to use Github markup file (my very first time).
 ## How to commenting a word
 Simply use back slash '\\'.
 ## How to bold letter
@@ -15,5 +15,11 @@ Simply use back slash '\\'.
 ## Combining italic and bold
 \_\_b\*i\*b\_\_ 
 >__b*i*b__
-
-
+## Make a quote block
+\>block
+>block (This is the block already)
+## How to make header
+\# equals to h1
+\#\# equals to h2
+> # h1
+> # h2
