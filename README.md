@@ -24,6 +24,10 @@ Simply use back slash '\\'.
 \>block
 >block (This is the block already)
 
+## Inline code
+\`\Inline\` 
+`Inline`
+
 ## How to make header
 \# equals to h1 <br/>
 \#\# equals to h2
@@ -41,11 +45,10 @@ Or this way \<h1\> h1 \<\/h1\>
   * row 2 
 
 ## Ordered list
-Use \1\. instead and with three tab spaces </br>
+Use \'1\.' instead and with three tab spaces </br>
 1. one 
 1. two 
 1. three
       1. three A
       1. three B
-
 
