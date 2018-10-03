@@ -16,4 +16,4 @@ _ha**combine**ha_
   * Item 2a
   * Item 2b
  
- There is two ways to go to next line <br/> or add two spaces
+ There is two ways to go to next line <br/> break or  add two spaces
