@@ -3,17 +3,17 @@ This is my personal practice on how to use github markup file (my very first tim
 ## How to commenting a word
 Simply use back slash '\\'.
 ## How to bold letter
-\*\*bold\*\*
+\*\*bold\*\* <br/>
 \_\_bold\_\_
 >**bold**
 >__bold__
 ## How to italic letter
-\*italic\*
+\*italic\* <br/>
 \_italic\_
 >*italic*
 >_italic_
 ## Combining italic and bold
-\_\_b\*i\*b\_\_
+\_\_b\*i\*b\_\_ 
 >__b*i*b__
 
 
